@@ -1,11 +1,11 @@
-id: 1918433296b640038eeeab4372601bfb
+id: 44384cca12af4a6a921eeb670dd1c752
 annotation_type: index
 revision: '00001'
 annotations:
-  8d10ca7dec9a4710beb12cf962996cec:
+  00441dc7d3464cdfb0efe23e94b0dfa8:
     parts: {}
     span:
     - vol: 97
       start: 0
-      end: 283127
+      end: 281179
     work_id: D4204x
